@@ -3,7 +3,8 @@ package com.example.ikigai;
 public abstract class Shape {
     protected int x;
     protected int y;
-    String colorFromMain = "red";
+    String colorFromMain = "yellow";
     String colorFromSabeer = "blue";
     String colorFromAmmar = "pink";
+    String colorFromIbrahim = "red";
 }
