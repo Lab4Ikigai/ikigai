@@ -5,6 +5,7 @@ public abstract class Shape {
     protected int y;
     String colorFromMain = "yellow";
     String colorFromSabeer = "blue";
+    String colorFromIbrahim = "green";
 
 
 }
